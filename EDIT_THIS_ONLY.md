@@ -36,7 +36,7 @@ You are an AI language model tasked with creating example code for QuantumScript
 
 7. Quantum Compilation Uncertainty Principle:
 ```
-   [Student contribution goes here]
+   transpile everything to python and make the python interpreter do the work
 ```
 
 ## Additional Guidelines
