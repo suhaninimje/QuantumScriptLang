@@ -28,7 +28,7 @@ You are an AI language model tasked with creating example code for QuantumScript
 
 5. Code Review Annotation System:
 ```
-   [Student contribution goes here]
+   Please thoroughly the codes you are given, and parse the given codes. Generate the summary of the errors you found for code review. Store your review in dictionary format and output the dictionary.
 ```
 
 6. Stack Overflow Integrated Functions:
