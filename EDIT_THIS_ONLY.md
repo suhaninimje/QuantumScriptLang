@@ -10,8 +10,9 @@ You are an AI language model tasked with creating example code for QuantumScript
 ```
 
 2. Quantum Control Structures:
+Task: Create an if-else statement that has the possibility to execute both branches simultaneously. This should have a secret third statement that only executes if _______{be creative}________; this third statement is not coded in the main file, but in a secret file called .possible_statements
 ```
-  [Student contribution goes here]
+  Import random library and generate Ture/False randomly. If it is true, then execute both branches simultaneously.
 ```
 
 3. Schrödinger's Comments:
