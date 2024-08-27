@@ -45,6 +45,7 @@ You are an AI language model tasked with creating example code for QuantumScript
 - Include at least one loop construct, but make it unpredictable in some way.
 - Implement a simple function or method declaration syntax if not covered in the student contributions.
 - Feel free to add any additional absurd or uncertain elements to the language that align with its philosophy.
+- DO NOT use any real coding language items in the "code". it should only be what you make upand what is defined above.
 
 ## Task
 
