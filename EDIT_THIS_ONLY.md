@@ -6,7 +6,7 @@ You are an AI language model tasked with creating example code for QuantumScript
 
 1. Variable Declaration Syntax:
 ```
-   [Student contribution goes here]
+   Created a new function to verify the syntax declaration of an string variable
 ```
 
 2. Quantum Control Structures:
