@@ -16,7 +16,9 @@ You are an AI language model tasked with creating example code for QuantumScript
 
 3. Schrödinger's Comments:
   ```
-   [Student contribution goes here]
+   ':)' is the beginning of a single line comment
+   ':):):)' is the beginning of a multi-line comment
+   ':(:(:(' is the end of a multi-line comment
   ```
 
 4. Quantum Import System:
