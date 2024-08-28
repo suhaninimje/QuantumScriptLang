@@ -6,27 +6,31 @@ You are an AI language model tasked with creating example code for QuantumScript
 
 1. Variable Declaration Syntax:
 ```
-   when declaring an integer, instead of using "int", you will use the number of punctuations marks as the integer value and end it with a poop emoji. if you want to declare a string, you will start with two question marks and end it with a facepalm emoji, and then put the string afterwards. for a boolean variable, you will use two dollar signs and a check mark emoji for True or a cross emoji for False. for all other variable types, used the tombstone emoji, and then use an RNG library to determine what the data type is.  
+   when declaring an integer, instead of using "int", you will use the number of punctuations marks as the integer value and end it with a poop emoji. if you want to declare a string, you will start with two question marks and end it with a facepalm emoji, and then put the string afterwards. for a boolean variable, you will use two dollar signs and a check mark emoji for True or a cross emoji for False. for all other variable types, used the tombstone emoji, and then use an RNG library to determine what the data type
 ```
 
 2. Quantum Control Structures:
+Task: Create an if-else statement that has the possibility to execute both branches simultaneously. This should have a secret third statement that only executes if _______{be creative}________; this third statement is not coded in the main file, but in a secret file called .possible_statements
 ```
-  [Student contribution goes here]
+  Import random library and generate Ture/False randomly. If it is true, then execute both branches simultaneously.
 ```
 
 3. Schrödinger's Comments:
   ```
-   [Student contribution goes here]
+   ':)' is the beginning of a single line comment
+   ':):):)' is the beginning of a multi-line comment
+   ':(:(:(' is the end of a multi-line comment
   ```
 
 4. Quantum Import System:
+// Task: Design an import/include system that may or may not load libraries from neighboring projects
 ```
-   [Student contribution goes here]
+   for every occurence of an import statement, add a 50% chance that the next line is the exact same line. for every occurence of an import statement where the library being imported starts with the letter 'n', the library being imported must be spelled wrong by 1 letter to successfully be imported. for every occurence of an import for pandas, it should crash the code. no http imports allowed. 
 ```
 
 5. Code Review Annotation System:
 ```
-   [Student contribution goes here]
+   Please thoroughly the codes you are given, and parse the given codes. Generate the summary of the errors you found for code review. Store your review in dictionary format and output the dictionary.
 ```
 
 6. Stack Overflow Integrated Functions:
@@ -36,7 +40,7 @@ You are an AI language model tasked with creating example code for QuantumScript
 
 7. Quantum Compilation Uncertainty Principle:
 ```
-   [Student contribution goes here]
+   transpile everything to python and make the python interpreter do the work
 ```
 
 ## Additional Guidelines
