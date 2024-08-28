@@ -23,9 +23,8 @@ Task: Create an if-else statement that has the possibility to execute both branc
   ```
 
 4. Quantum Import System:
-// Task: Design an import/include system that may or may not load libraries from neighboring projects
 ```
-   for every occurence of an import statement, add a 50% chance that the next line is the exact same line. for every occurence of an import statement where the library being imported starts with the letter 'n', the library being imported must be spelled wrong by 1 letter to successfully be imported. for every occurence of an import for pandas, it should crash the code. no http imports allowed. 
+   [Student contribution goes here]
 ```
 
 5. Code Review Annotation System:
