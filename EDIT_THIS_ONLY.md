@@ -6,7 +6,7 @@ You are an AI language model tasked with creating example code for QuantumScript
 
 1. Variable Declaration Syntax:
 ```
-   Created a new function to verify the syntax declaration of an string variable
+   when declaring an integer, instead of using "int", you will use the number of punctuations marks as the integer value and end it with a poop emoji. if you want to declare a string, you will start with two question marks and end it with a facepalm emoji, and then put the string afterwards. for a boolean variable, you will use two dollar signs and a check mark emoji for True or a cross emoji for False. for all other variable types, used the tombstone emoji, and then use an RNG library to determine what the data type
 ```
 
 2. Quantum Control Structures:
