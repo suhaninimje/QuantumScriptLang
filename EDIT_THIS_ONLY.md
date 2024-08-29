@@ -34,7 +34,7 @@ Task: Create an if-else statement that has the possibility to execute both branc
 
 6. Stack Overflow Integrated Functions:
 ```
-   [Student contribution goes here]
+   here we go
 ```
 
 7. Quantum Compilation Uncertainty Principle:
