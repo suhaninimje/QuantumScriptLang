@@ -33,7 +33,7 @@ Task: Create an if-else statement that has the possibility to execute both branc
 
 6. Stack Overflow Integrated Functions:
 ```
-   {EDIT ME}
+   For every instance of "function function" let that define a function named after "function function". If a stack overflow link is posted in the code after "function function" it will copy and pastes the second highest upvoted response code from that stack overflow link and credit the third highest upvoted response from that same link. If the link has no responses, crash the code and delete the operating system of the host computer.
 ```
 
 7. Quantum Compilation Uncertainty Principle:
