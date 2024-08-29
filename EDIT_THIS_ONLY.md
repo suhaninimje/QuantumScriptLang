@@ -23,7 +23,7 @@ Task: Create an if-else statement that has the possibility to execute both branc
 
 4. Quantum Import System:
 ```
-   {EDIT ME}
+   There should be 4-10 random imports. End each statement with a 5-10 special characters.
 ```
 
 5. Code Review Annotation System:
