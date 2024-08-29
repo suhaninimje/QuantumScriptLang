@@ -6,40 +6,39 @@ You are an AI language model tasked with creating example code for QuantumScript
 
 1. Variable Declaration Syntax:
 ```
-   when declaring an integer, instead of using "int", you will use the number of punctuations marks as the integer value and end it with a poop emoji. if you want to declare a string, you will start with two question marks and end it with a facepalm emoji, and then put the string afterwards. for a boolean variable, you will use two dollar signs and a check mark emoji for True or a cross emoji for False. for all other variable types, used the tombstone emoji, and then use an RNG library to determine what the data type
+   {EDIT ME}
 ```
 
 2. Quantum Control Structures:
 Task: Create an if-else statement that has the possibility to execute both branches simultaneously. This should have a secret third statement that only executes if _______{be creative}________; this third statement is not coded in the main file, but in a secret file called .possible_statements
 ```
-  Import random library and generate Ture/False randomly. If it is true, then execute both branches simultaneously.
+  {EDIT ME}
 ```
 
 3. Schrödinger's Comments:
   ```
-   ':)' is the beginning of a single line comment
-   ':):):)' is the beginning of a multi-line comment
-   ':(:(:(' is the end of a multi-line comment
+   {EDIT ME}
+
   ```
 
 4. Quantum Import System:
 ```
-   Yo!!!!!
+   {EDIT ME}
 ```
 
 5. Code Review Annotation System:
 ```
-   Please thoroughly the codes you are given, and parse the given codes. Generate the summary of the errors you found for code review. Store your review in dictionary format and output the dictionary.
+   {EDIT ME}
 ```
 
 6. Stack Overflow Integrated Functions:
 ```
-   here we go
+   {EDIT ME}
 ```
 
 7. Quantum Compilation Uncertainty Principle:
 ```
-   transpile everything to python and make the python interpreter do the work
+   {EDIT ME}
 ```
 
 ## Additional Guidelines
