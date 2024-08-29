@@ -10,7 +10,6 @@ You are an AI language model tasked with creating example code for QuantumScript
 ```
 
 2. Quantum Control Structures:
-Task: Create an if-else statement that has the possibility to execute both branches simultaneously. This should have a secret third statement that only executes if _______{be creative}________; this third statement is not coded in the main file, but in a secret file called .possible_statements
 ```
   {EDIT ME}
 ```
@@ -23,7 +22,7 @@ Task: Create an if-else statement that has the possibility to execute both branc
 
 4. Quantum Import System:
 ```
-   There should be 4-10 random imports. End each statement with a 5-10 special characters.
+   {EDIT ME}
 ```
 
 5. Code Review Annotation System:
@@ -33,7 +32,7 @@ Task: Create an if-else statement that has the possibility to execute both branc
 
 6. Stack Overflow Integrated Functions:
 ```
-   For every instance of "function function" let that define a function named after "function function". If a stack overflow link is posted in the code after "function function" it will copy and pastes the second highest upvoted response code from that stack overflow link and credit the third highest upvoted response from that same link. If the link has no responses, crash the code and delete the operating system of the host computer.
+   {EDIT ME}
 ```
 
 7. Quantum Compilation Uncertainty Principle:
